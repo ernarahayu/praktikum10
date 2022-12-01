@@ -88,6 +88,7 @@ while True:
 1.) Pertama kita membuat sebuah dictionary kosong yang nantinya akan diinputkan data ketika program dijalankan.
 
  ``` data = {} ```
+ 
 2.) Lalu kita membuat kondisi perulangan dan sebuah keterangan untuk pilihan menu yang akan menjalankan program.
 
 ``` bash
